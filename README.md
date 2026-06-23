@@ -43,7 +43,7 @@ student-performance-system/
 ├── app.py                        # Core Streamlit Application and Layout UI Code
 ├── README.md                     # Project Documentation File
 └── requirements.txt              # Project Library Dependencies
-
+```
 
 💻 Technical Stack & Installation
 
@@ -69,4 +69,7 @@ Anti-Border UI Engine: Overrides standard Streamlit styling wrappers (stVertical
 State Retention: Leverages st.session_state to decouple input alterations from immediate calculations, recalculating values purely on specific user command events.
 
 Export Engine: Includes data formatting using StringIO streams to package calculated predictive indexes into immediate .csv file downloads.
+
+Dashboard Overview
+
 
