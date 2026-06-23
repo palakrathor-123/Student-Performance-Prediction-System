@@ -71,5 +71,7 @@ State Retention: Leverages st.session_state to decouple input alterations from i
 Export Engine: Includes data formatting using StringIO streams to package calculated predictive indexes into immediate .csv file downloads.
 
 Dashboard Overview
+<img width="1285" height="629" alt="Image" src="https://github.com/user-attachments/assets/648762ff-cf6a-4367-aff0-cef49191c687" />
 
+<img width="1285" height="615" alt="Image" src="https://github.com/user-attachments/assets/0d88dec6-e8f9-4c41-ae25-9ae3f6b6b21d" />
 
